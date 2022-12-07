@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contact Me</title>
+  </head>
+  <body>
+  <center>
+    <h1> Contact Me</h1>
+    <p>Email: xyin26@fordham.edu</p>
+    <p>Phone: 718-877-7061</p>
+    <p>Address: 606 W 57th Street, NY, 10019</p>
+
+  <form action="HTML" method="post" enctype="text/plain">
+    <label for="">Your Name:</label>
+    <input type="text" name="Name" value=""><br>
+    <br>
+    <label for="">Your email:</label>
+    <input type="email" name="Email" value="">
+    <br>
+    <label>Your Message:</label><br>
+    <textarea name="Message" rows="10" cols="50"></textarea>
+    <input type="submit" >
+
+
+  </form>
+
+  </body>
+</center>
+</html>
